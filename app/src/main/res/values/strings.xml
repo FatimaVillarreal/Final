@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">otraversion</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_drawer_content">DrawerContent</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+    <string name="title_activity_food">FoodActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_orders">OrdersActivity</string>
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+    <string name="title_activity_user_addresses">UserAddressesActivity</string>
+    <string name="title_activity_add_address">AddAddressActivity</string>
+    <string name="title_activity_user_cards">UserCardsActivity</string>
+    <string name="title_activity_add_card">AddCardActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+    <string name="title_activity_location_permission">LocationPermissionActivity</string>
+</resources>
